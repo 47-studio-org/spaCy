@@ -37,7 +37,7 @@
         "gatsby-remark-smartypants": "^5.24.0",
         "gatsby-remark-unwrap-images": "^1.0.1",
         "gatsby-source-filesystem": "^4.24.0",
-        "gatsby-transformer-remark": "^5.24.0",
+        "gatsby-transformer-remark": "^6.0.0",
         "gatsby-transformer-sharp": "^4.24.0",
         "html-to-react": "^1.3.4",
         "intersection-observer": "^0.5.1",
